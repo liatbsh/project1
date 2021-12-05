@@ -1,0 +1,5 @@
+fname	lname	phone	rooms	country	city	street	house_number	price	Lat	Long
+Omer	Aluf	054-4217795	1	Israel	Herzlya	Hadar	10	1	32.17843	34.88493
+Lili	Bona	052-4123598	2	Israel	Herzlya	Weizman	20	2	32.17843	34.88493
+Galit	Halel	054-4785123	3	Israel	Raanana	Ahuza	30	3	32.17843	34.88493
+Roni	feder	052-4788521	4	Israel	Herzlya	Sokolov	40	4	32.17843	34.88493
