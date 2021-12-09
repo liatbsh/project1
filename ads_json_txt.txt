@@ -1,1 +1,0 @@
-[{"fname": "omer", "lname": "Aluf", "phone": "054-4217795", "e-mail": "omeraluf@gmail.com", "rooms": "1", "country": "israel", "city": "herzlya", "street": "hadar", "house_number": "10", "price": "1", "lat": "32.17843", "long": "34.88493"}]
