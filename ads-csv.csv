@@ -1,0 +1,10 @@
+fname,lname,phone,rooms,country,city,street,Full address,Lat,Long,price
+Omer,Aluf,054-4217795,1,Israel,Herzlya,Hadar 10,"isreal, herzlya, hadar 10",32.16858,34.84881,2
+Roni,feder,052-4788521,4,Israel,Tel aviv,Sokolov 40,"israel, tel aviv, sokolov 40",32.08979,34.77795,1.7
+Galit,Halel,054-4785123,3,Israel,Raanana,Ahuza 30,"isreal, raanana, ahuza 40",32.178429,34.88493,1.5
+Lili,Bona,052-4123598,2,Israel,Herzlya,Weizman 20,"israel, herzlya, weizman 20",32.16566497,34.83693307,1.3
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
